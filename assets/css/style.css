@@ -1075,6 +1075,7 @@ section {
   .av {
     display: none;
   }
+  .grid-container div p {display: none;}
 }
 
 /*--------------------------------------------------------------
